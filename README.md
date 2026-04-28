@@ -1,3 +1,8 @@
+```markdown
+# Live Demo
+
+https://job-search-agent-ai.streamlit.app/
+
 # AI Job Search Agent ########
 
 An intelligent job search assistant built using LangChain and LLaMA 3.1 via Groq API. This application fetches real-time job listings and provides concise, meaningful summaries to help users quickly understand job roles.
@@ -30,7 +35,6 @@ An intelligent job search assistant built using LangChain and LLaMA 3.1 via Groq
 pip install -r requirements.txt
 streamlit run app.py
 
-# How It Works
 
-# Live Demo
-https://job-search-agent-ai.streamlit.app/
+
+
