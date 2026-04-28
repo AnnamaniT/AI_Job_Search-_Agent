@@ -29,3 +29,6 @@ An intelligent job search assistant built using LangChain and LLaMA 3.1 via Groq
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+# Live Demo
+https://job-search-agent-ai.streamlit.app/
