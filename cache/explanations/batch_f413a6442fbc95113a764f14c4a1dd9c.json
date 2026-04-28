@@ -1,0 +1,34 @@
+{
+  "results": [
+    {
+      "job_index": 1,
+      "job_title": "Software Engineer",
+      "company": "Under Armour India",
+      "explanation": [
+        "Skills overlap: Java, Python, JavaScript, HTML, CSS, Spring Boot, React.js, Node.js, Express.js, MySQL, MongoDB, PostgreSQL, Git, Jenkins, Docker, AWS, JIRA, Windows, Linux",
+        "Experience relevance: 3 years of experience as Software Engineer and Software Engineer Intern",
+        "Role alignment: Front-end and full stack software engineering responsibilities"
+      ]
+    },
+    {
+      "job_index": 2,
+      "job_title": "Software Engineer",
+      "company": "Ferguson",
+      "explanation": [
+        "Skills overlap: Java, Python, JavaScript, HTML, CSS, Git, Jenkins, Docker, AWS, JIRA, Windows, Linux",
+        "Experience relevance: 3 years of experience as Software Engineer and Software Engineer Intern",
+        "Role alignment: General information technology responsibilities, including software applications and data processing"
+      ]
+    },
+    {
+      "job_index": 3,
+      "job_title": "Senior Software Engineer",
+      "company": "Sedgwick India",
+      "explanation": [
+        "Skills overlap: Java, Python, JavaScript, HTML, CSS, Spring Boot, React.js, Node.js, Express.js, MySQL, MongoDB, PostgreSQL, Git, Jenkins, Docker, AWS, JIRA, Windows, Linux",
+        "Experience relevance: 3 years of experience as Software Engineer and Software Engineer Intern",
+        "Role alignment: Senior-level responsibilities in software engineering, with potential for leadership and collaboration"
+      ]
+    }
+  ]
+}

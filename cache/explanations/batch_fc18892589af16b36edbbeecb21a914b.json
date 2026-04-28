@@ -1,0 +1,24 @@
+{
+  "results": [
+    {
+      "job_index": 1,
+      "job_title": "Senior Software Engineer",
+      "company": "Under Armour India",
+      "explanation": [
+        "Skills overlap: Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Backend Testing, Data Validation, and Test Case Design & Execution",
+        "Experience relevance: 10 years of experience in Software Engineering roles",
+        "Role alignment: Senior Software Engineer role matches the candidate's current and past roles"
+      ]
+    },
+    {
+      "job_index": 2,
+      "job_title": "Senior Software Engineer",
+      "company": "Sedgwick India",
+      "explanation": [
+        "Skills overlap: Functional Testing, Regression Testing, Sanity Testing, and Data Validation",
+        "Experience relevance: 10 years of experience in Software Engineering roles",
+        "Role alignment: Senior Software Engineer role matches the candidate's current and past roles"
+      ]
+    }
+  ]
+}

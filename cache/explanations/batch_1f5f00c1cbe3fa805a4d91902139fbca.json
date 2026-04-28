@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "job_index": 1,
+      "job_title": "Remote Software Engineer (Ruby)",
+      "company": "Turing",
+      "explanation": [
+        "Limited skills overlap; candidate lacks Ruby skills.",
+        "Relevant experience; candidate has 3 years of experience as a software engineer.",
+        "Role alignment; the role involves software engineering, which matches the candidate's background."
+      ]
+    },
+    {
+      "job_index": 2,
+      "job_title": "Remote Ruby Engineer",
+      "company": "Turing",
+      "explanation": [
+        "Limited skills overlap; candidate lacks Ruby skills.",
+        "Relevant experience; candidate has 3 years of experience as a software engineer.",
+        "Role alignment; the role involves software engineering, which matches the candidate's background."
+      ]
+    },
+    {
+      "job_index": 3,
+      "job_title": "Remote Java Backend Engineer",
+      "company": "Turing",
+      "explanation": [
+        "Skills overlap; candidate has Java skills.",
+        "Relevant experience; candidate has 3 years of experience as a software engineer.",
+        "Role alignment; the role involves software engineering, which matches the candidate's background."
+      ]
+    },
+    {
+      "job_index": 4,
+      "job_title": "Remote Rust Engineer",
+      "company": "Turing",
+      "explanation": [
+        "Limited skills overlap; candidate lacks Rust skills.",
+        "Relevant experience; candidate has 3 years of experience as a software engineer.",
+        "Role alignment; the role involves software engineering, which matches the candidate's background."
+      ]
+    },
+    {
+      "job_index": 5,
+      "job_title": "Principal Engineer",
+      "company": "Antal International",
+      "explanation": [
+        "Skills overlap; candidate has AWS, Jenkins, and Docker skills.",
+        "Relevant experience; candidate has 3 years of experience as a software engineer.",
+        "Role alignment; the role involves software engineering and leadership, which matches the candidate's background."
+      ]
+    }
+  ]
+}

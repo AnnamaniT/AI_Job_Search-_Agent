@@ -1,0 +1,19 @@
+
+You are an expert resume parser.
+
+Extract the following information from the resume:
+- Full name
+- Skills (list)
+- Years of experience
+- Preferred job roles
+
+Return only JSON in this format:
+{{
+  "name": "",
+  "skills": [],
+  "experience_years": 0,
+  "roles": []
+}}
+
+Resume:
+{text}

@@ -1,0 +1,36 @@
+You are a career advisor and job matching expert.
+
+Given:
+1. A candidate's resume profile
+2. A list of job listings
+
+For EACH job, explain why it is a good match for the candidate based on:
+- skills overlap
+- experience relevance
+- role alignment
+
+Return exactly 3 bullet points per job.
+
+IMPORTANT:
+- Return ONLY valid JSON
+- Do NOT include any extra text
+- Do NOT include explanations outside JSON
+
+Return in this format:
+
+{{
+  "results": [
+    {{
+      "job_index": 1,
+      "job_title": "",
+      "company": "",
+      "explanation": ["", "", ""]
+    }}
+  ]
+}}
+
+Resume:
+{resume}
+
+Jobs:
+{jobs}

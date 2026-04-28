@@ -1,0 +1,29 @@
+{
+  "name": "Rahul Sharma",
+  "skills": [
+    "Java",
+    "Python",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Spring Boot",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MySQL",
+    "MongoDB",
+    "PostgreSQL",
+    "Git",
+    "Jenkins",
+    "Docker",
+    "AWS",
+    "JIRA",
+    "Windows",
+    "Linux"
+  ],
+  "experience_years": 3,
+  "roles": [
+    "Software Engineer",
+    "Software Engineer Intern"
+  ]
+}
